@@ -1,0 +1,118 @@
+
+
+<style>
+<link rel="stylesheet" type="text/css" href="reset.css">
+
+    
+
+
+   .content {
+       margin: auto;
+   }
+
+    .title {
+        font: 60px;
+        color: white;
+        background-color: teal;
+        width: 100px;
+        height: 37px;
+        border-bottom-style: solid;
+    }
+
+    @media (min-width: 640px) {
+
+    .content {
+        float: right;
+        font-size: 15px;
+        color: teal;
+        padding-bottom: 15px;
+    }
+
+    h2 {
+        float: left;
+        color: teal;
+        border-bottom-color: black;
+        margin-bottom:10px;
+        border-bottom-style: solid;
+        border-width: thin;
+        padding-right: 85%;
+        padding-bottom: 30px;
+        
+    }
+   
+    h3 {
+        clear: left;
+        font: 60px;
+        color: teal;
+        margin-bottom: 15px;
+        margin-top: 20px;
+        padding-top: 20px;
+        border-bottom-style: solid;
+        padding-bottom: 15px;
+    }
+     body {
+        float: left;
+        background: url('/assets/images/palm-leaf.png')
+    }
+    .picture {
+       
+        float: left
+    }
+    
+    textarea {
+        resize: none
+    }
+
+    .port2{
+       float: right;
+    }}
+
+    @media (min-width: 640px) {
+  @media (max-width: 960px) {
+    h2 {
+        float: left;
+        color: teal;
+        border-bottom-color: black;
+        margin-bottom:10px;
+        border-bottom-style: solid;
+        border-width: thin;
+        padding-right: 85%;
+        padding-bottom: 30px;
+        
+    }
+   
+    h3 {
+        clear: left;
+        font: 60px;
+        color: teal;
+        margin-bottom: 15px;
+        margin-top: 20px;
+        padding-top: 20px;
+        border-bottom-style: solid;
+        padding-bottom: 15px;
+    }
+     body {
+        float: left;
+        background: url('/assets/images/palm-leaf.png')
+    }
+    .picture {
+       
+        float: left
+    }
+    
+    textarea {
+        resize: none
+    }
+
+    .port2{
+       float: right;
+    }}
+
+}}
+
+
+
+
+
+</style>
+
